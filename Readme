@@ -1,3 +1,3 @@
 # Roadport
 
-The aim of this project is to show the USD<>BOND exchange rate at the Roadport
+This project uses the differences in share price of Old Mutual shares between the Zimbabwe Stock Exchange and the London stock exchange to calculate the USD exchange rate at the Roadport
